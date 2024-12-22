@@ -1,0 +1,13 @@
+1)Limpiar Datos
+Aplicar Mediana a valores None
+Eliminar columnas si supera el 50% de None
+
+2)Clustering
+Agrupar 6 grupos K-mean definodo por WEKA
+
+opcion alterna: utilizar Metodo Codo para establecer k
+
+3) Regresion
+LASSO
+
+

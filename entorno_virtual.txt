@@ -1,0 +1,6 @@
+Activar el entorno virtual:
+.\env\Scripts\activate
+
+
+Desactivar el entorno virtual:
+deactivate

@@ -1,0 +1,3 @@
+Ajustar un modelo predictivo.
+Seleccionar las variables más importantes.
+Reducir el impacto de las variables irrelevantes.

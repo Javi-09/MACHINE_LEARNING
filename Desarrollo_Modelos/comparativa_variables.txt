@@ -1,0 +1,19 @@
+Lasso:
+['Forks', 'Contributors', 'Files', 'complexity', 'classes', 'duplicated_lines', 'duplicated_blocks', 'file_complexity', 'comment_lines_density', 'bugs']
+
+
+Tipo de precisión utilizada: Precisión ponderada (precision_weighted).
+
+Random Forest Completo:
+Promedio de Precision: 0.9793749999999999
+
+
+Random Forest Simple:
+Promedio de Precision: 0.9793859649122807
+
+
+SVM Completo:
+Promedio de Precision: 0.6418754108735205
+
+SVM Simple:
+Promedio de Precision: 0.6418754108735205
